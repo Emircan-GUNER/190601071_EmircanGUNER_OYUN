@@ -1,2 +1,1 @@
-# 190601071_EmircanGUNER_OYUN
- Unity Oyun Projesi
+# bakircay-game-development-course
